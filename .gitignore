@@ -1,0 +1,10 @@
+# Lines starting with `#` are comments.
+
+# Files from VSCode
+.vscode
+
+# Tests directory
+test/
+
+# Temp files
+*~
